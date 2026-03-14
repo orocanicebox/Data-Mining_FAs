@@ -2,7 +2,8 @@
 title: "Summative Assessment 1"
 author: "Karl Isaiah Buenafe"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
-output: html_document
+output:
+  md_document
 ---
 
 ```{r setup, include=FALSE}
